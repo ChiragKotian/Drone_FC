@@ -18,3 +18,5 @@ https://www.scs.stanford.edu/~zyedidia/docs/pcb/pcb_tutorial.pdf
 
 
 https://www.altium.com/documentation/altium-designer/tutorial-complete-design-walkthrough
+
+https://ninedotconnects.com/public_resources/Ricks-Reading-Recommendation.pdf
