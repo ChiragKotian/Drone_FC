@@ -20,3 +20,6 @@ https://www.scs.stanford.edu/~zyedidia/docs/pcb/pcb_tutorial.pdf
 https://www.altium.com/documentation/altium-designer/tutorial-complete-design-walkthrough
 
 https://ninedotconnects.com/public_resources/Ricks-Reading-Recommendation.pdf
+
+# BEC : (5V,3A)(Vin max = 40V)
+![image](https://github.com/ChiragKotian/Drone_FC/assets/117931123/468e0272-7f58-4e3f-a280-dc9f264ae8d7)
