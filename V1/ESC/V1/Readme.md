@@ -21,5 +21,5 @@ https://www.altium.com/documentation/altium-designer/tutorial-complete-design-wa
 
 https://ninedotconnects.com/public_resources/Ricks-Reading-Recommendation.pdf
 
-# BEC : (5V,3A)(Vin max = 40V)
+## BEC : (5V,3A)(Vin max = 40V)(LM2596)
 ![image](https://github.com/ChiragKotian/Drone_FC/assets/117931123/468e0272-7f58-4e3f-a280-dc9f264ae8d7)
