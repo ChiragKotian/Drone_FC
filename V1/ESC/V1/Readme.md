@@ -28,7 +28,11 @@ https://ninedotconnects.com/public_resources/Ricks-Reading-Recommendation.pdf
 
 ### LM2576
 https://www.ti.com/lit/ds/symlink/lm2576.pdf
+
 https://www.engineersgarage.com/12-v-to-5-v-buck-converter-using-lm2576-ic/
 
 ![image](https://github.com/ChiragKotian/Drone_FC/assets/117931123/e57c7c78-063f-4985-b582-549091b987e2)
+
+![Uploading image.png…]()
+
 
