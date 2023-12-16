@@ -21,5 +21,14 @@ https://www.altium.com/documentation/altium-designer/tutorial-complete-design-wa
 
 https://ninedotconnects.com/public_resources/Ricks-Reading-Recommendation.pdf
 
-## BEC : (5V,3A)(Vin max = 40V)(LM2596)
+## BEC : (5V,3A)(Vin max = 40V)
+
+### LM2596
 ![image](https://github.com/ChiragKotian/Drone_FC/assets/117931123/468e0272-7f58-4e3f-a280-dc9f264ae8d7)
+
+### LM2576
+https://www.ti.com/lit/ds/symlink/lm2576.pdf
+https://www.engineersgarage.com/12-v-to-5-v-buck-converter-using-lm2576-ic/
+
+![image](https://github.com/ChiragKotian/Drone_FC/assets/117931123/e57c7c78-063f-4985-b582-549091b987e2)
+
